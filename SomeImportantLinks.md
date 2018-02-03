@@ -19,3 +19,10 @@ https://www.linkedin.com/feed/update/urn:li:activity:6358892005619306497
 
 https://github.com/Shujian2015/FreeML - Data Science Resources 
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html - Example of data augmentation in Keras
+https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/ - A short study of different deep learning architectures
+https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwXEiaiN5S%2FGQixb8ggQt%2Bw%3D%3D - An interesting article on RNN
+
+
+
+
+
