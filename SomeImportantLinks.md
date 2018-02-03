@@ -19,5 +19,3 @@ https://www.linkedin.com/feed/update/urn:li:activity:6358892005619306497
 
 https://github.com/Shujian2015/FreeML - Data Science Resources 
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html - Example of data augmentation in Keras
-
-
